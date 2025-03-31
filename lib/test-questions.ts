@@ -196,5 +196,85 @@ export const testQuestions: TestQuestion[] = [
       { value: "p", text: "可以随遇而安" },
     ],
   },
+
+  // 新增 E vs I 问题
+  {
+    id: 21,
+    text: "在会议中，你通常：",
+    category: "ei",
+    options: [
+      { value: "e", text: "积极参与讨论并表达观点" },
+      { value: "i", text: "先倾听他人，有重要补充时才发言" },
+    ],
+  },
+  {
+    id: 22,
+    text: "你更倾向于通过什么方式认识新朋友：",
+    category: "ei",
+    options: [
+      { value: "e", text: "主动介绍自己并开启对话" },
+      { value: "i", text: "等待他人先接近你" },
+    ],
+  },
+
+  // 新增 S vs N 问题  
+  {
+    id: 23,
+    text: "当描述事物时，你更倾向于：",
+    category: "sn",
+    options: [
+      { value: "s", text: "使用具体的事实和细节" },
+      { value: "n", text: "使用比喻和象征意义" },
+    ],
+  },
+  {
+    id: 24,
+    text: "你更相信哪种知识来源：",
+    category: "sn",
+    options: [
+      { value: "s", text: "亲身经历和可验证的数据" },
+      { value: "n", text: "理论框架和概念模型" },
+    ],
+  },
+
+  // 新增 T vs F 问题
+  {
+    id: 25,
+    text: "当需要批评他人时，你更倾向于：",
+    category: "tf",
+    options: [
+      { value: "t", text: "直接指出问题所在" },
+      { value: "f", text: "先肯定优点再委婉提出建议" },
+    ],
+  },
+  {
+    id: 26,
+    text: "你更看重决策的：",
+    category: "tf",
+    options: [
+      { value: "t", text: "客观性和公平性" },
+      { value: "f", text: "对人际关系的影响" },
+    ],
+  },
+
+  // 新增 J vs P 问题
+  {
+    id: 27,
+    text: "面对截止日期，你通常：",
+    category: "jp",
+    options: [
+      { value: "j", text: "提前规划并分阶段完成" },
+      { value: "p", text: "在最后期限前集中精力完成" },
+    ],
+  },
+  {
+    id: 28,
+    text: "你更喜欢的工作方式是：",
+    category: "jp",
+    options: [
+      { value: "j", text: "按既定流程和标准操作" },
+      { value: "p", text: "根据情况灵活调整方法" },
+    ],
+  }
 ]
 
