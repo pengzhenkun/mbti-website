@@ -1,0 +1,37 @@
+{
+  "hero.title": "发现你的真实人格类型",
+  "hero.description": "参加我们全面的 MBTI 人格测试，了解你的偏好、优势和潜在的成长领域。",
+  "hero.button.test": "参加测试",
+  "hero.button.explore": "探索类型",
+
+  "features.title": "为什么参加我们的 MBTI 测试？",
+  "features.description": "我们科学设计的评估提供关于你的人格和偏好的有价值见解。",
+  "features.assessment.title": "全面评估",
+  "features.assessment.description": "我们的测试旨在准确评估你在四个 MBTI 二分法中的偏好。",
+  "features.results.title": "详细结果",
+  "features.results.description": "获取你的人格类型的详细资料，包括优势、劣势和成长机会。",
+  "features.community.title": "社区见解",
+  "features.community.description": "与拥有相同人格类型的人联系，从他们的经验中学习。",
+  "features.growth.title": "个人成长",
+  "features.growth.description": "利用你的结果更好地了解自己，制定个人和职业成长策略。",
+
+  "testimonials.title": "用户评价",
+  "testimonials.description": "了解我们的 MBTI 测试如何帮助人们获得关于其人格的有价值见解。",
+
+  "types.title": "16种人格类型",
+  "types.description": "探索所有16种MBTI人格类型，了解每种类型的特点、优势和挑战。",
+  "types.code.title": "理解类型代码",
+  "types.energy.title": "能量来源",
+  "types.energy.e": "外向 (E): 从与他人互动中获取能量",
+  "types.energy.i": "内向 (I): 从独处和内省中获取能量",
+  "types.info.title": "信息收集",
+  "types.info.s": "感觉 (S): 关注具体事实和细节",
+  "types.info.n": "直觉 (N): 关注模式、可能性和未来",
+  "types.decision.title": "决策方式",
+  "types.decision.t": "思考 (T): 基于逻辑和客观分析做决定",
+  "types.decision.f": "感受 (F): 基于价值观和人际影响做决定",
+  "types.structure.title": "生活结构",
+  "types.structure.j": "判断 (J): 喜欢计划、结构和确定性",
+  "types.structure.p": "感知 (P): 喜欢灵活性、自发性和开放性"
+}
+
